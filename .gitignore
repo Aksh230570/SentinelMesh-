@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large data
+data/raw/
+data/processed/
+data/knowledge/chroma/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

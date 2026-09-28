@@ -1,0 +1,24 @@
+# Core
+fastapi
+uvicorn
+pydantic
+python-dotenv
+requests
+
+# Data + ML
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# LLM orchestration + RAG
+langchain
+langgraph
+chromadb
+sentence-transformers
+
+# Evaluation (install when you reach week 12)
+# ragas
+
+# Dashboard
+streamlit
